@@ -74,7 +74,7 @@ console.log("hi there")
 
 
  # Image syntax
- <!-- ![this is my image](./src/images/abu%20rayhan.jpg) -->
+ ![this is my image](./src/images/abu%20rayhan.jpg)
 
 <img scr="./src/images/abu rayhan.jpg"  width="400px"/> 
 
