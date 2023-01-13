@@ -76,7 +76,7 @@ console.log("hi there")
  # Image syntax
 
 
-<img scr="./src/images/abu rayhan.JPG"  width="400px"/> 
+<img scr="./src/images/abu rayhan.jpg"  width="400px"/> 
 
 # Table syntax
 
